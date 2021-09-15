@@ -7,7 +7,7 @@ body{
 	color: #444;
 }
 .intro-left{
-	background: url(E:/task2/image1.jpg);
+	background: url(image1.jpg);
 	background-size: cover;
 	position: fixed;
 	left:0;
